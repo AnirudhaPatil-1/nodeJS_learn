@@ -1,0 +1,21 @@
+{
+  "name": "repo_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnirudhaPatil-1/nodeJS_learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnirudhaPatil-1/nodeJS_learn/issues"
+  },
+  "homepage": "https://github.com/AnirudhaPatil-1/nodeJS_learn#readme"
+}
